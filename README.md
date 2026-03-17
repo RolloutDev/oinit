@@ -1,0 +1,1 @@
+Simple (temporary) init system
